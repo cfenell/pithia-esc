@@ -14,7 +14,7 @@ repos:
 
 
 ## XML schema validation
-## Schema files don't work yet, need fixes
+## Modify the path to your copy of the Pithia XSD schemas.
 ## --------------------------------------
   - repo: local
     hooks:
